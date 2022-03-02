@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fahimchoud135
 - 👀 I’m interested in Big data analysis currently. Absoulutely enthralled by relations between users, service and or product
-- 🌱 I’m currently learning Microsoft sql
+- 🌱 I’m currently learning Microsoft sql server, and rebuilding logic while learning python
 - 💞️ I’m looking to collaborate on any projects doing research on resources (wheter it be oil refines, hydraulics, hydrogen, etc)
 - 📫 How to reach me 
